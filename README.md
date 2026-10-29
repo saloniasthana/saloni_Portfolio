@@ -9,9 +9,3 @@ npm install
 npm run dev
 ```
 
-## Build for deployment (Netlify, etc.)
-
-```bash
-npm run build
-```
-
